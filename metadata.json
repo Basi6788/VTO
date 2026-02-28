@@ -1,0 +1,7 @@
+{
+  "name": "VTO Pro: Virtual Try-On Platform",
+  "description": "A professional virtual try-on server and platform that uses Gemini AI to realistically overlay clothing, accessories, and footwear onto character images.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
